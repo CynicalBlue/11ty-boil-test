@@ -7,6 +7,7 @@
     --muted: #6b7280;
     --text: #e6f3ff;
     --caption: #9fb7d9;
+    --footer: #ffffff;
 }
 
 html,body{
@@ -136,7 +137,7 @@ figcaption {
 footer {
     margin:48px 0 48px;
     font-size:1.2rem;
-    color:var(--muted);
+    color:var(--primary);
 }
 
 a { color:var(--primary); }
