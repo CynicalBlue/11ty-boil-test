@@ -7,7 +7,6 @@
     --muted: #6b7280;
     --text: #e6f3ff;
     --caption: #9fb7d9;
-    --footer: #ffffff;
 }
 
 html,body{
@@ -70,7 +69,7 @@ nav ul li a:focus {
 
 h1 {
     font-size:5rem;
-    margin:28px 0 12px;
+    margin:28px 0 56px;
     line-height:0.95;
     letter-spacing:-2px;
     font-weight:800;
